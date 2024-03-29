@@ -1,7 +1,7 @@
 {
   "name": "myfirst",
   "version": "1.0.0",
-  "author": "laloprincedev",
+  "author": "Jane Doe",
   "description": "this is the first challenge",
   "keywords": ["node","backend"],
   "main": "index.js",
