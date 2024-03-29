@@ -1,11 +1,11 @@
 {
-  "name": "backendfirst",
+  "name": "myfirst",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is the first challenge",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "laloprince",
+  "author": "laloprincedev",
   "license": "ISC"
 }
